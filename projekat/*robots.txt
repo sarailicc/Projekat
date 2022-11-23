@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+sitemap:https://github.com/sarailicc/Projekat/blob/main/projekat/sitemap.xml
